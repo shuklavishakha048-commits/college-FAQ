@@ -1,0 +1,53 @@
+[
+    {
+        "question": "what is college opening timing ?",
+        "answer": "College opens at 10:00 AM and closes at 5:00 PM"
+    },
+
+    {
+        "question":"When does college start ?",
+        "answer":"College starts at 10:00 AM"
+    },
+
+    {
+        "question":"How can I apply for admission",
+        "answer":"You can apply through  the college admission portal."
+    },
+
+    {
+        "question":"What documents are required for admission ?",
+        "answer":"Commonly required documents include academic marksheets,identity proof,photographs,and other docements specified by the college."
+    },
+
+    {
+        "question":"Does the college provide placement ?",
+        "answer":"The college provides placement assistance to eligible student." 
+    },
+
+    {
+        "question":"Which courses are available ?",
+        "answer":"Please check the college's  official website for the current list of available"
+    },
+
+    {
+        "question":"How can I contact the college ?",
+        "answer":"Please visit the college's official website for its contact details."
+    },
+
+    {
+        "question":"How can I get information about fees ?",
+        "answer":"Please check the college's official website or contact the admission office for the latest fee details."
+    },
+
+    {
+        "question":"How do I prepare for college exams ?",
+        "answer":"Review your syllabus,attend lectures , practise questions , and revise your notes regularly."
+    },
+
+    {
+        "question":"Where can I find my study materials ?",
+        "answer":"Please check the college's learning portal or contact your department for study materials."
+    }
+
+    
+]
