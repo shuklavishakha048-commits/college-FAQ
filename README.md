@@ -51,6 +51,9 @@ How It Works
 4. Calculates cosine similarity between the user's question and stored FAQs.
 5. Displays the most relevant answer if the similarity score meets the threshold.
 
+Github Repo:-https://github.com/shuklavishakha048-commits/college-FAQ
+linkedln url:-www.linkedin.com/in/vishakha-shukla-7b6133368
+
 Future Improvements
 
 - Add more FAQs.
